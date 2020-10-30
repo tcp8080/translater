@@ -1,6 +1,4 @@
 # translater
-including pkg: https://github.com/bregydoc/gtranslate
-
 this is a small tool used for translate an english article sentence by sentence.
 
 Todo:
@@ -8,7 +6,7 @@ Todo:
 2. add configure file, to used the main without rebuild
 
 run:
-1. install bregydoc/gtranslate into your host
+1. install bregydoc/gtranslate(https://github.com/bregydoc/gtranslate) into your host
 2. download the transFromGoogle.go file
 3. go run transFromGoogle.go
 
